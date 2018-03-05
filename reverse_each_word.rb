@@ -18,5 +18,4 @@ my_array.collect do |word|
     backwards = word.reverse!
   end
      my_array.join(" ")
-
 end
